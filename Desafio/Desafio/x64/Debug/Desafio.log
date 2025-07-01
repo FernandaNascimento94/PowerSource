@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo não resolvido, main, referenciado na função "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\aluno.cad\Desktop\Fernanda\Desafio\x64\Debug\Desafio.exe : fatal error LNK1120: 1 externo não resolvidos
